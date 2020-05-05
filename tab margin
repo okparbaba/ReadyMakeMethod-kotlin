@@ -1,0 +1,7 @@
+//tab layout tabs margin
+for (i in 0 until tabs.tabCount) {
+            val tab = (tabs.getChildAt(0) as ViewGroup).getChildAt(i)
+            val p = tab.layoutParams as MarginLayoutParams
+            p.setMargins(0, 0, 15, 0)
+            tab.requestLayout()
+        }*/
