@@ -1,0 +1,323 @@
+{
+"latest_video": [
+{
+"id": "Ut8FGRsCZI8",
+"title": "Irumbuthirai | Azhagae Video Song | Vishal, Arjun, Samantha | Yuvan Shankar Raja",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/Ut8FGRsCZI8/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Irumbuthirai | Azhagae Video Song | Vishal, Arjun, Samantha | Yuvan Shankar Raja"
+},
+{
+"id": "Gb4R5cvlto0",
+"title": "Vairii - What Are You Talking Lady",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/Gb4R5cvlto0/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Vairii - What Are You Talking Lady"
+},
+{
+"id": "JZGJXF3l_x8",
+"title": "Sketch | Kanave Kanave Video Song | Chiyaan Vikram, Tamannaah",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/JZGJXF3l_x8/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Sketch | Kanave Kanave Video Song | Chiyaan Vikram, Tamannaah"
+},
+{
+"id": "Nq8GTPavdm0",
+"title": "Sketch | Atchi Putchi Full Video Song | Chiyaan Vikram | Vijay Chandar | Thaman S",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/Nq8GTPavdm0/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Sketch | Atchi Putchi Full Video Song | Chiyaan Vikram | Vijay Chandar | Thaman S"
+},
+{
+"id": "QVgSyvzmbxw",
+"title": "Gulaebaghavali || Prabhu Deva, Hansika | Vivek Mervin",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/QVgSyvzmbxw/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Gulaebaghavali | Guleba Full Video Song | 4K | Kalyaan | Prabhu Deva, Hansika | Vivek Mervin"
+},
+{
+"id": "IYw2doWoucs",
+"title": "Thaanaa Serndha Koottam - Peela Peela Tamil Video| Suriya | Anirudh l Keerthi Suresh",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/IYw2doWoucs/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Thaanaa Serndha Koottam - Peela Peela Tamil Video| Suriya | Anirudh l Keerthi Suresh"
+},
+{
+"id": "pn6M7_L1JbQ",
+"title": "Thaanaa Serndha Koottam - Sodakku Tamil Video | Suriya | Anirudh l Keerthi Suresh",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/pn6M7_L1JbQ/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Thaanaa Serndha Koottam - Sodakku Tamil Video | Suriya | Anirudh l Keerthi Suresh"
+},
+{
+"id": "_0uZAQyxT_U",
+"title": "Notanki HD Video Song | Power | Raviteja | Hansika | Regina",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/_0uZAQyxT_U/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Notanki HD Video Song | Power | Raviteja | Hansika | Regina"
+},
+{
+"id": "J28_McaEl50",
+"title": "Vaa Vaa Vaa Vennila - Official Video Song | Aambala | Vishal,Hansika",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/J28_McaEl50/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Vaa Vaa Vaa Vennila - Official Video Song | Aambala | Vishal,Hansika"
+},
+{
+"id": "iFcqbj8hVKs",
+"title": "Vaalu Songs | UR My Darling Video Song | STR | Hansika Motwani | Santhanam",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/iFcqbj8hVKs/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Vaalu Songs | UR My Darling Video Song | STR | Hansika Motwani | Santhanam"
+},
+{
+"id": "P6z1zU3UxWU",
+"title": "Bogan - Senthoora Video | Jayam Ravi, Hansika | Imman",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/P6z1zU3UxWU/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Bogan - Senthoora Video | Jayam Ravi, Hansika | Imman"
+},
+{
+"id": "URgqLY3Z7PQ",
+"title": "Gulaebaghavali | Seramal Ponal Video Song | 4K | Kalyaan | Prabhu Deva, Hansika",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/URgqLY3Z7PQ/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Gulaebaghavali | Seramal Ponal Video Song | 4K | Kalyaan | Prabhu Deva, Hansika"
+},
+{
+"id": "on_pcqef3ec",
+"title": "Most Wanted Abbayi Video Song Making | MLA Movie | Nandamuri Kalyan Ram | Kajal Aggarwal",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/on_pcqef3ec/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Most Wanted Abbayi Video Song Making | MLA Movie | Nandamuri Kalyan Ram | Kajal Aggarwal"
+},
+{
+"id": "Cge0i-BeqKQ",
+"title": "Vivegam - Kadhalaada Official Song Video | Ajith Kumar | Anirudh",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/Cge0i-BeqKQ/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Vivegam - Kadhalaada Official Song Video | Ajith Kumar | Anirudh"
+},
+{
+"id": "N9CQz4fGfWA",
+"title": "Thuppaki - Google Google | Video Song | Vijay, Kajal Agarwal",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/N9CQz4fGfWA/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Thuppaki - Google Google | Video Song | Vijay, Kajal Agarwal"
+},
+{
+"id": "VhRM2Tw56ec",
+"title": "Sundari Full Video Song | \"Khaidi No 150\" | Chiranjeevi, Kajal Aggarwal,",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/VhRM2Tw56ec/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Sundari Full Video Song | \"Khaidi No 150\" | Chiranjeevi, Kajal Aggarwal,"
+},
+{
+"id": "bStxtwULOpU",
+"title": "Vennelave Video Song || Thuppaki Movie Songs ||Ilayathalapathy Vijay, Kajal Aggarwal",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/bStxtwULOpU/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Vennelave Video Song || Thuppaki Movie Songs ||Ilayathalapathy Vijay, Kajal Aggarwal"
+},
+{
+"id": "MmvpbLdaIRs",
+"title": "Mersal - Maacho Tamil Video | Vijay, Kajal Aggarwal",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/MmvpbLdaIRs/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Mersal - Maacho Tamil Video | Vijay, Kajal Aggarwal"
+},
+{
+"id": "08-pE8E7T4k",
+"title": "Mohini Songs | Mohini's Rage | Trisha | R. Madhesh | Vivek-Mervin",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/08-pE8E7T4k/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Mohini Songs | Mohini's Rage Song with Lyrics | Trisha | R. Madhesh | Vivek-Mervin"
+},
+{
+"id": "QAS6d3PiBrI",
+"title": "Yaakai Thiri - Full Tamil Video Song || Siddharth , Trisha",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/QAS6d3PiBrI/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Yaakai Thiri - Full Tamil Video Song || Siddharth , Trisha"
+},
+{
+"id": "TBX-PJyifts",
+"title": "Mellaga Video Song | Varsham Movie Songs | Prabhas | Trisha",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/TBX-PJyifts/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Mellaga Video Song | Varsham Movie Songs | Prabhas | Trisha"
+},
+{
+"id": "ggoeWxrJTY4",
+"title": "Kalakalappu 2 | Oru Kuchi Oru Kulfi | Jiiva, Jai, Shiva, Nikki Galrani",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/ggoeWxrJTY4/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Kalakalappu 2 | Oru Kuchi Oru Kulfi Video Song | Hiphop Tamizha | Jiiva, Jai, Shiva, Nikki Galrani"
+},
+{
+"id": "zqQz-cLEumo",
+"title": "Kodi - Sirukki Vaasam Tamil Video | Dhanush, Trisha",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/zqQz-cLEumo/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Kodi - Sirukki Vaasam Tamil Video | Dhanush, Trisha"
+},
+{
+"id": "B7nJttIt3X8",
+"title": "Priyam Jagame Anandhamayam Full Video Song |Jai Simha",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/B7nJttIt3X8/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Priyam Jagame Anandhamayam Full Video Song |Jai Simha"
+},
+{
+"id": "3js2KmmR0Ok",
+"title": "Yevevo Yevevo Cheppalanipisthundhi Full Video Song | Jai Simha",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/3js2KmmR0Ok/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Yevevo Yevevo Cheppalanipisthundhi Full Video Song | Jai Simha"
+},
+{
+"id": "es-5OLRrUf8",
+"title": "Velaikkaran - Karuthavanlaam Galeejaam Video | Sivakarthikeyan, Nayanthara | Anirudh",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/es-5OLRrUf8/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Velaikkaran - Karuthavanlaam Galeejaam Video | Sivakarthikeyan, Nayanthara | Anirudh"
+},
+{
+"id": "fPLzesuwNxg",
+"title": "Prabhas Superhit Songs | Nee Illu Bangaram Full Video Song | Yogi Telugu Movie Songs",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/fPLzesuwNxg/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Prabhas Superhit Songs | Nee Illu Bangaram Full Video Song | Yogi Telugu Movie Songs"
+},
+{
+"id": "OhiRYdoIjjA",
+"title": "Nayanthara / Uyire Video l Sivakarthikeyan, Nayanthara",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/OhiRYdoIjjA/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Nayanthara / Uyire Video l Sivakarthikeyan, Nayanthara"
+},
+{
+"id": "IV9F8WjPA28",
+"title": "Saravanan Irukka Bayamaen - Yembuttu Irukkuthu Aasai Video",
+"thumbnail": {
+"@url": "http://img.youtube.com/vi/IV9F8WjPA28/hqdefault.jpg",
+"@width": "480",
+"@height": "360"
+},
+"desc": "Saravanan Irukka Bayamaen - Yembuttu Irukkuthu Aasai Video"
+}
+]
+}
+
+
+အပေါ်ကလိုမျိုး @ sign ပါတဲ့ response တွေကို retrofit ကနေခေါ်ရင်ပြဿနာရှိတယ်
+
+
+data class test(
+    val latest_video: List<LatestVideo>
+)
+
+data class LatestVideo(
+    val desc: String,
+    val id: String,
+    val thumbnail: Thumbnail,
+    val title: String
+)
+
+data class Thumbnail(
+        @SerializeName("@height")
+        @Expose
+        val height: String,
+        @SerializeName("@url")
+        @Expose
+        val url: String,
+        @SerializeName("@width")
+        @Expose
+        val width: String
+)
+
+ဒါမျိုးခေါ်ရတယ်
